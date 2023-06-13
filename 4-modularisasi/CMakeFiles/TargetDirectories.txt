@@ -1,0 +1,3 @@
+/Users/mahdysyafiqa/Documents/Belajar-C/4-modularisasi/CMakeFiles/modularisasi.dir
+/Users/mahdysyafiqa/Documents/Belajar-C/4-modularisasi/CMakeFiles/edit_cache.dir
+/Users/mahdysyafiqa/Documents/Belajar-C/4-modularisasi/CMakeFiles/rebuild_cache.dir
