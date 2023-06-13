@@ -2,7 +2,7 @@
 #define HELLO_H
 
 typedef struct{
-    char *nama;
+    char nama[50];
     int ipk;
 } Mahasiswa;
 
